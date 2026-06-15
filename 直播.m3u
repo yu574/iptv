@@ -101,8 +101,6 @@ http://192.168.13.1:5140/rtsp/123.147.113.84:554/04000001/0100000000400000000000
 http://192.168.13.1:5140/rtsp/123.147.113.84:554/04000001/01000000004000000000000000000376?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-name="重庆新闻" tvg-logo="https://live.fanmingming.com/tv/重庆新闻.png" group-title="重庆地方",重庆新闻
 http://192.168.13.1:5140/rtsp/123.147.113.84:554/04000001/01000000004000000000000000000367?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-name="重庆移动" tvg-logo="https://live.fanmingming.com/tv/重庆移动.png" group-title="重庆地方",重庆移动
-http://192.168.13.1:5140/rtsp/123.147.113.84:554/04000001/01000000004000000000000000000384?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-name="重庆影视" tvg-logo="https://live.fanmingming.com/tv/重庆影视.png" group-title="重庆地方",重庆影视
 http://192.168.13.1:5140/rtsp/123.147.113.84:554/04000001/01000000004000000000000000000372?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-name="重庆娱乐" tvg-logo="https://live.fanmingming.com/tv/重庆新闻.png" group-title="重庆地方",重庆娱乐
